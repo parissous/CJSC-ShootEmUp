@@ -6,7 +6,7 @@ _(2D Platformer – Creajeux Summer Camp)_
 
 ## **🇫🇷 À propos du projet**
 
-Ce projet est un **jeu de plateforme 2D** développé en **une semaine** lors du **Summer Camp 2025** organisé par [Creajeux](https://www.creajeux.fr/) à Nîmes. L’objectif était de s’initier à la **création de jeux vidéo** en couvrant plusieurs aspects :
+Ce projet est un **jeu de tir sur des aliens 2D** développé en **une semaine** lors du **Summer Camp 2025** organisé par [Creajeux](https://www.creajeux.fr/) à Nîmes. L’objectif était de s’initier à la **création de jeux vidéo** en couvrant plusieurs aspects :
 
 *   **Design graphique** : Création d’assets 2D avec **Krita** (personnages, décors, animations).
     
@@ -19,7 +19,7 @@ Le résultat ? Un jeu **fun, dynamique et 100% fait maison** en un temps record 
 
 ## **🇬🇧 About the Project**
 
-This project is a **2D platformer game** developed in **one week** during the **Summer Camp 2025** organized by [Creajeux](https://www.creajeux.fr/) in Nîmes. The goal was to introduce participants to **video game creation**, covering:
+This project is a **2D shootEmUp game** developed in **one week** during the **Summer Camp 2025** organized by [Creajeux](https://www.creajeux.fr/) in Nîmes. The goal was to introduce participants to **video game creation**, covering:
 
 *   **Graphic Design**: 2D asset creation with **Krita** (characters, environments, animations).
     
