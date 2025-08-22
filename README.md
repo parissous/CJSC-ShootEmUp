@@ -1,4 +1,4 @@
-# **Plateformer 2D – Summer Camp Creajeux**
+# **ShootEmUP– Summer Camp Creajeux**
 
 _(2D Platformer – Creajeux Summer Camp)_
 
