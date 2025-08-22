@@ -88,7 +88,7 @@ _Requires Windows 10/11 or macOS (depending on the build)._
 
 ## **📝 Crédits / Credits**
 
-**Développé par/Developped by** : [Paris.T](https://github.com/VotrePseudo) **École/School** : [Creajeux](https://www.creajeux.fr/) **Outils utilisés/Used Tools** : Unity, C#, Krita, Visual Studio, GitHub Copilot
+**Développé par/Developped by** : [Paris.T](https://github.com/parissous)) **École/School** : [Creajeux](https://www.creajeux.fr/) **Outils utilisés/Used Tools** : Unity, C#, Krita, Visual Studio, GitHub Copilot
 
 ## **🔗 Liens utiles / Useful Links**
 
