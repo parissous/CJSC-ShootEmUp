@@ -1,6 +1,6 @@
 # **ShootEmUP– Summer Camp Creajeux**
 
-_(2D Platformer – Creajeux Summer Camp)_
+_(2D shooter – Creajeux Summer Camp)_
 
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-000000?logo=unity) ![C#](https://img.shields.io/badge/C%23-10.0-blue) ![Krita](https://img.shields.io/badge/Krita-5.0+-green) ![GitHub](https://img.shields.io/github/license/VotrePseudo/VotreRepo)
 
