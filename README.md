@@ -63,7 +63,7 @@ _Nécessite Windows 10/11 ou macOS (selon la build)._
 2.  **Extract** the `.zip` file.
     
 2.  **Rename** the .zip in .7z
-3.  **Run** the executable file (`Plateformer2D.exe`).
+3.  **Run** the executable file (`ShootEmUp.exe`).
     
 4.  **Enjoy**!
     
