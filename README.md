@@ -49,7 +49,7 @@ The result? A **fun, dynamic, and 100% homemade game** in record time!
     
 2. **Renommez** le fichier .zip en .7z
 
-3.  **Lancez** le fichier exécutable (`Plateformer2D.exe`).
+3.  **Lancez** le fichier exécutable (`shootEmUp.exe`).
     
 4.  **Amusez-vous** !
     
